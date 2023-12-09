@@ -1,6 +1,6 @@
 # Classic Deep Learning Method in Time Series Classification
 
-直接运行del.ipynb即可
+将UCRArchive文件夹放在当前目录下，直接运行del.ipynb即可
 
 ## 时间序列分类
 
