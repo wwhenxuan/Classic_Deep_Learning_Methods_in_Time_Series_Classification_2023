@@ -14,7 +14,7 @@
 
 本文中使用的MLP网络结构如下所示，为了避免过拟合，提高神经网络的拟合能力，我们使用了Dropout操作，其p值在网络中以标出，并使用了ReLU激活函数，并在最后使用了Softmax操作完成了分类任务。
 
-<img src="C:/Users/HUAWEI/OneDrive/Desktop/%E7%AE%97%E6%B3%95%E5%A4%A7%E4%BD%9C%E4%B8%9A/img/MLP.jpg" title="MLP" alt="MLP" style="zoom:25%;" />
+<img src="images/MLP.jpg" alt="MLP" style="zoom:20%;" />
 
 ### FCN 全卷积神经网络
 
